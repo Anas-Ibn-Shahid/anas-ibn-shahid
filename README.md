@@ -34,11 +34,28 @@ An experimental data science and machine-learning project built around a specifi
 
 **Current status:** The dashboard uses synthetic demonstration data. The real ANAID data pipeline still needs to be run and evaluated on the actual dataset. This is not a collision predictor or a production driving-safety system.
 
-## Tools I use
+## Skills & tools
 
-**Programming & data:** Python · SQL · Pandas · NumPy  
-**Analysis & communication:** Matplotlib · Streamlit  
-**Workflow:** JupyterLab · Git · GitHub
+<p><strong>Programming & data</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<p><strong>Analysis & applications</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<p><strong>Development workflow</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 Tools are part of the process—not the point of the work.
 
