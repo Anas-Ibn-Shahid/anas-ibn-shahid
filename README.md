@@ -1,50 +1,54 @@
-# Hi, I'm Anas Ibn Shahid 👋
+# Anas Ibn Shahid
 
-**Data Science Student | Python • SQL • Machine Learning | Exploring AI & Autonomous Systems**
+### I start with the problem. Then I find the right way to solve it.
 
-I’m a Data Science student focused on turning data into useful insights and building practical machine-learning projects. I enjoy working through real problems, understanding how systems behave, and learning by building end-to-end applications.
+I’m a Data Science student interested in building technology that is useful beyond the notebook.
 
-## What I'm working on
+My approach is problem-first: understand what is happening, question the data, identify what matters, and build a practical solution that can be tested. I’m especially drawn to problems involving complex systems, uncertain environments, and decisions that need to be made from data.
 
-- Building a project portfolio around data analysis, machine learning, and intelligent systems.
-- Strengthening my foundations in Python, SQL, data analysis, and machine learning.
-- Exploring how data-driven methods can support autonomous and safety-aware systems.
-- Looking for opportunities to contribute and grow through a **Data Science / Machine Learning internship**.
-
-## Skills & tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-**Currently learning:** machine-learning workflows, model evaluation, feature engineering, and stronger problem-solving with Python and SQL.
-
-## Featured project
-
-### [Autonomous Driving Risk Intelligence](https://github.com/Anas-Ibn-Shahid/autonomous-driving-risk-intelligence)
-
-An exploratory machine-learning project focused on analysing driving telemetry and forecasting the onset of annotated evasive manoeuvres.
-
-- Streamlit dashboard using clearly labelled synthetic demonstration data.
-- ANAID-oriented data preparation and model-training workflow.
-- Drive-session-based evaluation scaffold and unit tests.
-- Research prototype only: real-dataset model evaluation is still pending. It is not a collision predictor or a production driving-safety system.
-
-## What I value
-
-- Understanding the problem before choosing the tools.
-- Writing code that is readable, testable, and reproducible.
-- Being honest about what the data and results can—and cannot—show.
-- Consistent learning through practical projects.
+I’m not here to collect tools or make a long list of technologies. **I want my work to show how I think, what problem I chose, and what I built to address it.**
 
 ---
 
-📌 **Open to:** Data Science and Machine Learning internship opportunities.
+## How I approach a problem
 
-*Learning by building. Improving through iteration.*
+| Step | What it means in my work |
+|---|---|
+| **Understand** | Define the real problem before reaching for a model or tool. |
+| **Investigate** | Explore the data, find patterns, question assumptions, and spot limitations. |
+| **Build** | Turn the findings into a working, testable solution. |
+| **Validate** | Measure what works, inspect what fails, and be honest about the result. |
+
+## Selected work
+
+### [Autonomous Driving Risk Intelligence](https://github.com/Anas-Ibn-Shahid/autonomous-driving-risk-intelligence)
+
+**The problem I’m exploring:** Can recent vehicle telemetry help anticipate the start of an annotated evasive manoeuvre?
+
+An experimental data science and machine-learning project built around a specific behavioural forecasting question.
+
+- A Streamlit dashboard for exploring demonstration telemetry.
+- An ANAID-oriented data preparation and modelling workflow.
+- Past-only feature engineering and drive-session-based evaluation scaffolding.
+- Unit tests for selected data and feature-processing logic.
+
+**Current status:** The dashboard uses synthetic demonstration data. The real ANAID data pipeline still needs to be run and evaluated on the actual dataset. This is not a collision predictor or a production driving-safety system.
+
+## Tools I use
+
+**Programming & data:** Python · SQL · Pandas · NumPy  
+**Analysis & communication:** Matplotlib · Streamlit  
+**Workflow:** JupyterLab · Git · GitHub
+
+Tools are part of the process—not the point of the work.
+
+## The direction
+
+I’m interested in Data Science, Machine Learning, AI, and autonomous systems—especially where careful analysis can help solve a real-world problem.
+
+I’m open to **Data Science / Machine Learning internship opportunities** where I can contribute, learn from strong engineers, and build useful things.
+
+---
+
+> **A project should answer three questions: What problem does it solve? Why does the solution make sense? How do we know it works?**
+
